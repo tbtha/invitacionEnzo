@@ -4,8 +4,11 @@
 }
 .texto{
     position:absolute;
-    top: 300px;
+    top: 310px;
 }
 body{
     font-family: 'Sacramento', cursive;
+}
+.text-warning{
+    font-family:fantasy
 }
