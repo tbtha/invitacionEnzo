@@ -1,0 +1,11 @@
+
+.img{
+    position: relative;
+}
+.texto{
+    position:absolute;
+    top: 300px;
+}
+body{
+    font-family: 'Sacramento', cursive;
+}
